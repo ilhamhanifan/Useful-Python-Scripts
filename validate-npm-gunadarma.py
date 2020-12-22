@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+'''
+Script ini berguna untuk memvalidasi valid tidaknya npm mahasiswa gunadarma dengan menggunakan web scraping sederhana
+'''
 import requests
 import time
 from bs4 import BeautifulSoup
