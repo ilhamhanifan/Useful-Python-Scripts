@@ -1,2 +1,2 @@
 # Useful-Python-Scripts
-A collections of useful python scripts scripts
+A collections of useful python scripts
